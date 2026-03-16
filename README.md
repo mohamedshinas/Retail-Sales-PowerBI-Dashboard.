@@ -37,4 +37,4 @@ images/ – dashboard screenshot.
 ## Author
 Mohamed Shinas
 ## Dashboard Preview
-![Dashboard Preview](Dashboard Preview.png)
+![Dashboard Preview](Dashboard_Preview.png)
